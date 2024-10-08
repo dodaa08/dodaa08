@@ -12,12 +12,12 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFlcWwwaDhpdmY5NG8yMGR6NDU2dTU3ZzhxNG01cHZmbDNoaHg2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6BBWgIxT7MZfUVWXdj/giphy.webp"> -->
 
 
-- I’m currently working on building a freelancing platform (https://github.com/Panoptic08/Blog-App)
+- I’m currently working on building a freelancing platform (https://github.com/dodaa08/SkillSeva-)
 
 
 -  I regularly write articles on [https://readyy.hashnode.dev/](https://readyy.hashnode.dev/)
 
-<h3 align="left">Connect with me   <a href="https://linktr.ee/Kartik_Doda" target="blank">"#EveryWhere"</a>   </h3>
+<h3 align="left">Connect with me   <a href="https://linktr.ee/Kartik_Doda" target="blank">Connect</a>   </h3>
 
 
 
