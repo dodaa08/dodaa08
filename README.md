@@ -4,14 +4,15 @@ I am a software developer from India. Currently into FullStack Web3 Development.
 
 ## 🛠 Technologies
 
-![Next.js](https://img.shields.io/badge/next.js-green?logo=vuedotjs&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-green?logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-blue?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/linux-black?logo=linux&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-orange?logo=mysql&logoColor=white&style=for-the-badge)
+
 
 
 ## 🔗 Useful Links
