@@ -4,7 +4,7 @@ I am a software developer from India. Currently into Web3.
 
 ## 🛠 Technologies
 
-![Next.js](https://img.shields.io/badge/vue.js-green?logo=vuedotjs&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-green?logo=vuedotjs&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-blue?logo=cplusplus&logoColor=white&style=for-the-badge)
