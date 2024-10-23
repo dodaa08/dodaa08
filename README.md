@@ -16,10 +16,10 @@ I am a software developer from India. Currently into FullStack Web3 Development.
 
 
 ## 🔗 Useful Links
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](your-twitter-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=portfolio&logoColor=white&style=for-the-badge)](your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](your-linkedin-link)
-[![HashNode](https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white&style=for-the-badge)](your-behance-link)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/kartik___doda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=portfolio&logoColor=white&style=for-the-badge)](kartik--doda.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kartikd4152g/)
+[![HashNode](https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white&style=for-the-badge)](https://readyy.hashnode.dev/)
 
 ## 📊 This Week I Have Been Doing:
 From: 15 October 2024 - To: 22 October 2024
