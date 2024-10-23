@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik
 
-I am a software developer from India. Currently into Web3.
+I am a software developer from India. Currently into FullStack Web3 Development.
 
 ## 🛠 Technologies
 
