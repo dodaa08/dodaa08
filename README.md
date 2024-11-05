@@ -17,7 +17,7 @@ I am a software developer from India. Currently into FullStack Web3 Development.
 
 ## 🔗 Useful Links
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/kartik___doda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=portfolio&logoColor=white&style=for-the-badge)](kartik--doda.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=portfolio&logoColor=white&style=for-the-badge)](https://kartikdoda.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kartikd4152g/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-red?style=for-the-badge)](https://readyy.hashnode.dev/)
 
