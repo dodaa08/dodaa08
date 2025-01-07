@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kartik
+# Hi, I'm Kartik
 
 I am a software developer from India. Currently into FullStack Web3 Development.
 
