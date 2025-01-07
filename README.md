@@ -2,7 +2,7 @@
 
 I am a software developer from India. Currently into FullStack Web3 Development.
 
-## 🛠 Technologies
+## Tech Stacks
 
 ![Next.js](https://img.shields.io/badge/next.js-green?logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
@@ -15,7 +15,7 @@ I am a software developer from India. Currently into FullStack Web3 Development.
 
 
 
-## 🔗 Useful Links
+## Connect
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/kartik___doda)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=portfolio&logoColor=white&style=for-the-badge)](https://kartikdoda.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kartikd4152g/)
