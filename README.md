@@ -21,10 +21,4 @@ I am a software developer from India. Currently into FullStack Web3 Development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kartikd4152g/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-red?style=for-the-badge)](https://readyy.hashnode.dev/)
 
-## 📊 This Week I Have Been Doing:
-From: 19 Nov 2024 - To: 26 Nov 2024
-- **Next.JS:** ███████▒░░░░░░░░░░░░░░░░░ 29.00%
-- **PDA Solana:** ██▒░░░░░░░░░░░░░░░░░░░░░ 09.20%
-- **DevOps:** ██▒░░░░░░░░░░░░░░░░░░░░░ 09.65%
-- **JWT:** █▓░░░░░░░░░░░░░░░░░░░░░░ 06.94%
-- **Solidity:** █▓░░░░░░░░░░░░░░░░░░░░░░ 06.92%
+
