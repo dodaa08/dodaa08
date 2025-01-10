@@ -2,7 +2,7 @@
 
 FullStack Web3 Developer
 
-## Tech Stacks
+## Technologies I use.
 
 ![Next.js](https://img.shields.io/badge/next.js-green?logo=next.js&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
