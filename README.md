@@ -1,6 +1,6 @@
 # Hi, I'm Kartik
 
-FullStack Web3 Developer
+FullStack Dapp Developer
 
 ## Technologies I use.
 
