@@ -9,12 +9,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://kartikdoda.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=portfolio&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-black?logo=portfolio&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/kartikd4152g/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Blogs-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://readyy.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge">
   </a>
 </p>
