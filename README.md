@@ -8,13 +8,13 @@
   <a href="https://x.com/kartik___doda" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://kartikdoda.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?logo=portfolio&logoColor=white&style=for-the-badge">
+  <a href="https://opalescent-crater-f04.notion.site/Projects-1c6dae29fdcd80d0b553f38d9ee15fb6" target="_blank">
+    <img src="https://img.shields.io/badge/projects-black?logo=portfolio&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/kartikd4152g/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogs-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://readyy.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-red?style=for-the-badge">
+  <a href="https://opalescent-crater-f04.notion.site/Blogs-1c6dae29fdcd8028b428c07483a25c91" target="_blank">
+    <img src="https://img.shields.io/badge/Blogs-red?style=for-the-badge">
   </a>
 </p>
