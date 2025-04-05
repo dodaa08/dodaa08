@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/kartik___doda" target="_blank">
+  <a href="https://x.com/kartik0x1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://opalescent-crater-f04.notion.site/Projects-1c6dae29fdcd80d0b553f38d9ee15fb6" target="_blank">
