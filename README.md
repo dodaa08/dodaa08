@@ -13,5 +13,6 @@ Intersecting smart contracts, full stack web dev, design, and backend
 
 ## 📫 Reach me:
 
+[![Portfolio Badg](https://img.shields.io/badge/Portfolio-kartikdoda.tech-1DA1F2?style=for-the-badge&logo=twitter)](https://kartikdoda.tech)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@kartik0x1-1DA1F2?style=for-the-badge&logo=twitter)](https://dub.sh/kartik0x1)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kartik%20Doda-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikd4152g/)
