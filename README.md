@@ -7,7 +7,7 @@ I'm a Full Stack Blockchain Developer
 
 - **Backend**: Node.js, TypeScript, Prisma
 - **Frontend**: React, Next.js
-- **Blockchain**: Solidity, Solana
+- **Blockchain**: Solidity, Rust
 
 ## 📫 How to reach me:
 
