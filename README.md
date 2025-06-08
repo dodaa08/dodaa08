@@ -12,8 +12,8 @@ Intersecting smart contracts, full stack web dev, design, and backend
 
 ## 📫 Reach me:
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-iamnas-181717?style=for-the-badge&logo=github)](https://dub.sh/iamnas)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@0xnas__eth-1DA1F2?style=for-the-badge&logo=twitter)](https://dub.sh/0xnas_eth)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Anaresh%20Rao-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anareshrao/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-dodaa08-181717?style=for-the-badge&logo=github)](https://dub.sh/dodaa08)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@kartik0x1-1DA1F2?style=for-the-badge&logo=twitter)](https://dub.sh/kartik0x1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kartik%20Doda-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikd4152g/)
 
 
