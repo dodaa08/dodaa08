@@ -1,4 +1,5 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Hi <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="32" style="vertical-align:middle; margin-bottom:4px;" />
+
 
 I'm a Full Stack Blockchain Developer
 
