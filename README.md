@@ -1,8 +1,7 @@
-### Hey there
+### Hey !
 
 I'm a Full Stack Blockchain Developer
 
-I specialize in building decentralized applications and smart contracts with a focus on blockchain technology. My tech stack includes both frontend and backend development tools, as well as blockchain-specific technologies.
 
 ## 🛠️ Languages and Tools:
 
