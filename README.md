@@ -9,7 +9,7 @@ Intersecting smart contracts, full stack web dev, design, and backend
 
 - **Backend**: Node.js, TypeScript, Prisma
 - **Frontend**: React, Next.js
-- **Blockchain**: Solidity, Rust
+- **Blockchain**: EVM, Solana 
 
 ## 📫 Reach me:
 
