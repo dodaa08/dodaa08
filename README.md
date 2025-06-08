@@ -1,20 +1,19 @@
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### Hey there
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</p>
+I'm a Full Stack Blockchain Developer
 
-<p align="center">
-  <a href="https://x.com/kartik0x1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://opalescent-crater-f04.notion.site/Projects-1c6dae29fdcd80d0b553f38d9ee15fb6" target="_blank">
-    <img src="https://img.shields.io/badge/projects-black?logo=portfolio&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/kartikd4152g/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://opalescent-crater-f04.notion.site/Blogs-1c6dae29fdcd8028b428c07483a25c91" target="_blank">
-    <img src="https://img.shields.io/badge/Blogs-red?style=for-the-badge">
-  </a>
-</p>
+I specialize in building decentralized applications and smart contracts with a focus on blockchain technology. My tech stack includes both frontend and backend development tools, as well as blockchain-specific technologies.
+
+## 🛠️ Languages and Tools:
+
+- **Backend**: Node.js, TypeScript, Prisma
+- **Frontend**: React, Next.js
+- **Blockchain**: Solidity, Solana
+
+## 📫 How to reach me:
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-iamnas-181717?style=for-the-badge&logo=github)](https://dub.sh/iamnas)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@0xnas__eth-1DA1F2?style=for-the-badge&logo=twitter)](https://dub.sh/0xnas_eth)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Anaresh%20Rao-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anareshrao/)
+
+Feel free to check out my projects and reach out if you're interested in collaborating or learning more about blockchain development!
