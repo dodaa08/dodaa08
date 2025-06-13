@@ -8,7 +8,7 @@
 
 ---
 
-## 🔗 Web3 Projects
+## Web3 Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -21,7 +21,7 @@
 
 ---
 
-## 🤖 Bots & Automation
+## Bots & Automation
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 DeFi & Trading
+## DeFi & Trading
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌐 Web2 Projects
+## Web2 Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -51,7 +51,7 @@
 
 ---
 
-## 📎 Links
+## Links
 
 - GitHub → [https://github.com/dodaa08](https://github.com/dodaa08)  
 - Portfolio → [https://kartikdoda.tech](https://kartikdoda.tech/)  
