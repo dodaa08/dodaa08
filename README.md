@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Jam" width="30"> &nbsp;🧾 Proof of Work&nbsp; <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="Cat GIF" width="30">
+   &nbsp;🧾 Proof of Work&nbsp; <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="Cat GIF" width="30">
   </h1>
 <h3>full-stack Dev • web3 • building on Solana & EVM</h3>
 
@@ -44,7 +44,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Periskope** | Real-time one-to-one chat app | Next.js, WebSocket | [Live](https://periskope-2nd-attempt.vercel.app/) |
-| **Restaurant Companion** | AI assistant for Google Maps restaurants | Next.js, Tailwind, Gemini API | [Live](https://zoto-codecircuit.vercel.app/) |
+| **Restaurant Companion** | AI assistant for Google Maps restaurants | Next.js, Tailwind, Gemini API | [Live](https://zoto-codecircuit-a4yg.vercel.app/) |
 | **Zarva** | Safest route finder using Google Maps APIs | Node.js, Google Maps API | [Repo](https://github.com/dodaa08/Zarva) |
 | **Supply Chain Optimization** | Fix broken supply chains with data science | Python, Streamlit, Pandas | [Repo](https://github.com/dodaa08/Supply-chain-optimization) |
 | **Laundry-App** | Android app for managing laundry requests | Java, Firebase | [Repo](https://github.com/dodaa08/Laundry-App) |
