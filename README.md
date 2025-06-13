@@ -1,9 +1,5 @@
 <div align="center">
-  <h1>
-   &nbsp;🧾 Proof of Work&nbsp; <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="Cat GIF" width="30">
-  </h1>
 <h3>full-stack Dev • web3 • building on Solana & EVM</h3>
-
 </div>
 
 ---
