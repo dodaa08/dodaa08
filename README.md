@@ -7,39 +7,46 @@
 
 ---
 
-## 🌱 CarbonX
+## 🔗 Web3 Projects
 
-**CarbonX** is a decentralized donation platform empowering environmental organizations to raise **verified funds** while issuing **Impact NFTs** as transparent, immutable proofs of contribution.
-
-🔗 Live: https://canbonx.vercel.app/
-
-- **Kartik Doda:** Full-stack, frontend, wallet integrations  
-- **Sarthak Arora:** Solana smart contracts (Rust) & protocol engineering  
-- Qualified for **Summer of Bitcoin 2025**
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **CarbonX** | Decentralized donation platform with Impact NFTs | Next.js, TypeScript, Solana, Tailwind | [Live](https://canbonx.vercel.app/) |
+| **Quick Gigs** | Decentralized freelance marketplace on Ethereum | Next.js, TypeScript, Solidity, Hardhat | [Repo](https://github.com/dodaa08/Quick-gigs) |
+| **Sol-Deed** | On-chain job platform | Next.js, TypeScript, Solidity, Vercel | [Live](https://sol-deed.vercel.app/) |
+| **AptoMart** | NFT Marketplace on Aptos blockchain | Next.js, TypeScript, Aptos, Move | [Repo](https://github.com/dodaa08/AptoMart) |
+| **EVM Bridge** | Cross-chain bridge (ETH to Base) | Next.js, TypeScript, Solidity, Foundry | [Repo](https://github.com/dodaa08/EVM_Bridge) |
+| **DEX** | AMM-based Decentralized Exchange on Ethereum | Solidity, Foundry, Hardhat, Ethers.js | [Repo](https://github.com/dodaa08/DEX) |
 
 ---
 
-## 🔗 Web3 Projects
+## 🤖 Bots & Automation
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Quick Gigs** | Decentralized freelance marketplace on Ethereum | [Repo](https://github.com/dodaa08/Quick-gigs) |
-| **Sol-Deed** | On-chain job platform | [Live](https://sol-deed.vercel.app/) |
-| **AptoMart** | NFT Marketplace on Aptos | [Repo](https://github.com/dodaa08/AptoMart) |
-| **EVM Bridge** | Cross-chain bridge (ETH to Base) | [Repo](https://github.com/dodaa08/EVM_Bridge) |
-| **DEX** | AMM-based Decentralized Exchange on Ethereum | [Repo](https://github.com/dodaa08/DEX) |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **copperx-payout-bot** | Telegram bot for crypto USDC payouts | TypeScript, Telegram Bot API, Copperx API | [Repo](https://github.com/dodaa08/copperx-payout-bot) |
+| **sol-telegram-bot** | Solana transactions via Telegram bot | TypeScript, @solana/web3.js, Telegram Bot API | [Repo](https://github.com/dodaa08/sol-telegram-bot) |
+
+---
+
+## 📈 DeFi & Trading
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Trading-System** | Crypto & stock live orderbook engine | JavaScript, Node.js | [Repo](https://github.com/dodaa08/Trading-System) |
+| **TradeEngine** | Crypto trading UI with mock orderbook | Next.js, Tailwind | [Live](https://tradeengine.vercel.app/) |
 
 ---
 
 ## 🌐 Web2 Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Periskope** | Real-time one-to-one chat app | [Live](https://periskope-2nd-attempt.vercel.app/) |
-| **Restaurant Companion** | AI assistant for Google Maps restaurants | [Live](https://zoto-codecircuit.vercel.app/) *(shared deployment)* |
-| **TradeEngine** | Crypto trading UI with mock orderbook | [Live](https://tradeengine.vercel.app/) |
-| **Zarva** | Safest route finder using Google Maps APIs | [Repo](https://github.com/dodaa08/Zarva) |
-| **Supply Chain Optimization** | Streamlit + Python app for fixing broken supply chains | [Repo](https://github.com/dodaa08/Supply-chain-optimization) |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Periskope** | Real-time one-to-one chat app | Next.js, WebSocket | [Live](https://periskope-2nd-attempt.vercel.app/) |
+| **Restaurant Companion** | AI assistant for Google Maps restaurants | Next.js, Tailwind, Gemini API | [Live](https://zoto-codecircuit.vercel.app/) |
+| **Zarva** | Safest route finder using Google Maps APIs | Node.js, Google Maps API | [Repo](https://github.com/dodaa08/Zarva) |
+| **Supply Chain Optimization** | Fix broken supply chains with data science | Python, Streamlit, Pandas | [Repo](https://github.com/dodaa08/Supply-chain-optimization) |
+| **Laundry-App** | Android app for managing laundry requests | Java, Firebase | [Repo](https://github.com/dodaa08/Laundry-App) |
 
 ---
 
