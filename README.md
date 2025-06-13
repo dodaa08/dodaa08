@@ -12,7 +12,7 @@
 | **Quick Gigs** | Decentralized freelance marketplace on Ethereum | Next.js, TypeScript, Solidity, Hardhat | [Repo](https://github.com/dodaa08/Quick-gigs) |
 | **Sol-Deed** | On-chain job platform | Next.js, TypeScript, Solidity, Vercel | [Live](https://sol-deed.vercel.app/) |
 | **AptoMart** | NFT Marketplace on Aptos blockchain | Next.js, TypeScript, Aptos, Move | [Repo](https://github.com/dodaa08/AptoMart) |
-| **EVM Bridge** | Cross-chain bridge (ETH to Base) | Next.js, TypeScript, Solidity, Foundry | [Repo](https://github.com/dodaa08/EVM_Bridge) |
+| **EVM Bridge** | Cross-chain bridge (ETH to Base) | Next.js, TypeScript, Solidity, Foundry | [Repo](https://github.com/dodaa08/Evm_-_Bridge) |
 | **DEX** | AMM-based Decentralized Exchange on Ethereum | Solidity, Foundry, Hardhat, Ethers.js | [Repo](https://github.com/dodaa08/DEX) |
 
 ---
@@ -22,7 +22,6 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **copperx-payout-bot** | Telegram bot for crypto USDC payouts | TypeScript, Telegram Bot API, Copperx API | [Repo](https://github.com/dodaa08/copperx-payout-bot) |
-| **sol-telegram-bot** | Solana transactions via Telegram bot | TypeScript, @solana/web3.js, Telegram Bot API | [Repo](https://github.com/dodaa08/sol-telegram-bot) |
 
 ---
 
@@ -43,8 +42,6 @@
 | **Restaurant Companion** | AI assistant for Google Maps restaurants | Next.js, Tailwind, Gemini API | [Live](https://zoto-codecircuit-a4yg.vercel.app/) |
 | **Zarva** | Safest route finder using Google Maps APIs | Node.js, Google Maps API | [Repo](https://github.com/dodaa08/Zarva) |
 | **Supply Chain Optimization** | Fix broken supply chains with data science | Python, Streamlit, Pandas | [Repo](https://github.com/dodaa08/Supply-chain-optimization) |
-| **Laundry-App** | Android app for managing laundry requests | Java, Firebase | [Repo](https://github.com/dodaa08/Laundry-App) |
-
 ---
 
 ## Links
