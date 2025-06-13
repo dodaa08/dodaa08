@@ -2,6 +2,8 @@
   <h1>
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Jam" width="30"> &nbsp;🧾 Proof of Work&nbsp; <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" alt="Cat GIF" width="30">
   </h1>
+<h3>full-stack engineer • web3 developer • building on Solana & EVM</h3>
+
 </div>
 
 ---
