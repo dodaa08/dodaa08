@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fullstack • Web3 • Building Solana & EVM
+# fullstack • Web3 • Building Solana & EVM
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 📈 DeFi & Trading
+## DeFi & Trading
 
 | Project         | Description     | Tech Stack                                  | Link                                                  |
 | --------------- | --------------- | ------------------------------------------ | ----------------------------------------------------- |
