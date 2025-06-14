@@ -55,7 +55,7 @@
   
 <div align="center">
   <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="180" />
-  <p><i>Thanks for stopping by! Stay curious, stay building ⚡🛠️</i></p>
+  <p><i>Thanks for stopping by! </i></p>
 </div>
 
 
