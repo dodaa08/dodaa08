@@ -54,7 +54,8 @@
 - **Loom Walkthrough** → [Watch Demo](https://www.loom.com/share/f5a0d6f151fd41c3af77b8be19c86e98)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZhNzUwNnQ1M2hya3B5M2drbnprY3p4NjR2cGF0bTNsaHV4Z2twOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" alt="Party Cat" width="160" />
-  <p><i>Thanks for checking out my projects! </i></p>
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Colorful Celebration" width="180" />
+  <p><i>Thanks for exploring my work! Wishing you bright code & brighter days 🌈🚀✨</i></p>
 </div>
+
 
