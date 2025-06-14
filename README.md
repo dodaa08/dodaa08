@@ -1,6 +1,6 @@
 <div align="center">
 
-# fullstack • Web3 • Building Solana & EVM
+# fullstack • Web3 • Building on Solana & EVM
 
 </div>
 
