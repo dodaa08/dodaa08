@@ -1,5 +1,5 @@
 <div align="center">
-<h3>full-stack Dev • web3 • building on Solana & EVM</h3>
+<h3> Fullstack • web3 • building on Solana & EVM</h3>
 </div>
 
 ---
