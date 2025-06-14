@@ -54,8 +54,8 @@
 - **Loom Walkthrough** → [Watch Demo](https://www.loom.com/share/f5a0d6f151fd41c3af77b8be19c86e98)
   
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Colorful Wave" width="100%" />
-  <p><i>Thanks for checking out my projects! Have a great day ❤️✨</i></p>
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="180" />
+  <p><i>Thanks for stopping by! Stay curious, stay building ⚡🛠️</i></p>
 </div>
 
 
