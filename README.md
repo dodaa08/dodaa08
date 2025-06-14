@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Web3 Projects
+## Web3 Projects
 
 | Project       | Description      | Tech Stack                                           | Link                                                  |
 | ------------- | ---------------- | --------------------------------------------------- | ----------------------------------------------------- |
@@ -19,7 +19,7 @@
 
 ---
 
-## 🤖 Bots & Automation
+## Bots & Automation
 
 | Project              | Description     | Tech Stack                                  | Link                                                  |
 | -------------------- | --------------- | ------------------------------------------ | ----------------------------------------------------- |
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌐 Web2 Projects
+## Web2 Projects
 
 | Project                | Description     | Tech Stack                                                | Link                                                         |
 | ---------------------- | --------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
@@ -47,7 +47,7 @@
 
 ---
 
-## 🌐 Links
+## Links
 
 - **GitHub** → [https://github.com/dodaa08](https://github.com/dodaa08)  
 - **Portfolio** → [https://kartikdoda.tech](https://kartikdoda.tech/)  
@@ -55,5 +55,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" alt="Celebration" width="120" />
-  <p><i>Thanks for checking out my work! 🫡</i></p>
+  <p><i>Thanks for checking out my work!</i></p>
 </div>
