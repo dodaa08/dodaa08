@@ -1,6 +1,6 @@
 <div align="center">
 
-# fullstack • Web3 • Building on EVM Chains & Solana 
+# Buidling on Evm Chains, Solana
 
 </div>
 
