@@ -1,6 +1,6 @@
 <div align="center">
 
-# Buidling on Evm Chains, Solana
+# Buidling on Evm Chains & Solana with a Bit of AI
 
 </div>
 
