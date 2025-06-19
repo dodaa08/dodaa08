@@ -49,7 +49,6 @@
 
 ## Links 
 - **Portfolio** → [https://kartikdoda.tech](https://kartikdoda.tech/)  
-- **Loom Walkthrough** → [Watch Demo](https://www.loom.com/share/f5a0d6f151fd41c3af77b8be19c86e98)
   
 <div align="center">
   <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="180" />
