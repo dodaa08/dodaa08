@@ -10,11 +10,11 @@
 
 | Project       | Description      | Tech Stack                                           | Link                                                  |
 | ------------- | ---------------- | --------------------------------------------------- | ----------------------------------------------------- |
+| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, Foundry, Chainlink    | [Repo](https://github.com/dodaa08/Evm-Bridge)      |
 | **CarbonX**   | Impact Marketplace | Next.js, TypeScript, Solana, Anchor, on-chain NFTs   | [Live](https://canbonx.vercel.app/)                  |
 | **Quick Gigs**| Freelance Exchange | Next.js, TypeScript, Solidity, Hardhat, Ethers.js    | [Repo](https://github.com/dodaa08/Quick-gigs)        |
 | **Sol-Deed**  | Job Ledger        | Next.js, TypeScript, Solidity, Hardhat, Vercel       | [Live](https://sol-deed.vercel.app/)                 |
 | **AptoMart**  | NFT Bazaar        | Next.js, TypeScript, Aptos, Move, Wallet Adapter     | [Repo](https://github.com/dodaa08/AptoMart)          |
-| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, Foundry, Chainlink    | [Repo](https://github.com/dodaa08/Evm-Bridge)      |
 | **DEX**       | AMM Exchange      | Solidity, Foundry, Hardhat, Ethers.js                | [Repo](https://github.com/dodaa08/DEX)               |
 
 ---
@@ -32,7 +32,6 @@
 | Project         | Description     | Tech Stack                                  | Link                                                  |
 | --------------- | --------------- | ------------------------------------------ | ----------------------------------------------------- |
 | **Trading-System** | Live Orderbook  | Node.js, JavaScript, WebSocket, Redis       | [Repo](https://github.com/dodaa08/Trading-System)     |
-| **TradeEngine** | Mock UI         | Next.js, React, Tailwind CSS                | [Live](https://tradeengine.vercel.app/)              |
 
 ---
 
