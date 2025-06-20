@@ -14,7 +14,7 @@
 | **Quick Gigs**| Freelance Exchange | Next.js, TypeScript, Solidity, Hardhat, Ethers.js    | [Repo](https://github.com/dodaa08/Quick-gigs)        |
 | **Sol-Deed**  | Job Ledger        | Next.js, TypeScript, Solidity, Hardhat, Vercel       | [Live](https://sol-deed.vercel.app/)                 |
 | **AptoMart**  | NFT Bazaar        | Next.js, TypeScript, Aptos, Move, Wallet Adapter     | [Repo](https://github.com/dodaa08/AptoMart)          |
-| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, Foundry, Chainlink    | [Repo](https://github.com/dodaa08/Evm_-_Bridge)      |
+| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, Foundry, Chainlink    | [Repo](https://github.com/dodaa08/Evm-Bridge)      |
 | **DEX**       | AMM Exchange      | Solidity, Foundry, Hardhat, Ethers.js                | [Repo](https://github.com/dodaa08/DEX)               |
 
 ---
