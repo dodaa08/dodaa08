@@ -10,11 +10,11 @@
 
 | Project       | Description      | Tech Stack                                           | Link                                                  |
 | ------------- | ---------------- | --------------------------------------------------- | ----------------------------------------------------- |
-| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, Foundry, Chainlink    | [Repo](https://github.com/dodaa08/Evm-Bridge)      |
+| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, hardhat    | [Repo](https://github.com/dodaa08/Evm-Bridge)      |
 | **CarbonX**   | Impact Marketplace | Next.js, TypeScript, Solana, Anchor, on-chain NFTs   | [Live](https://canbonx.vercel.app/)                  |
-| **Quick Gigs**| Freelance Exchange | Next.js, TypeScript, Solidity, Hardhat, Ethers.js    | [Repo](https://github.com/dodaa08/Quick-gigs)        |
+| **Quick Gigs**| Gig work onChain | Next.js, TypeScript, Solidity, Hardhat, Ethers.js    | [Repo](https://github.com/dodaa08/Quick-gigs)        |
 | **Sol-Deed**  | Job Ledger        | Next.js, TypeScript, Solidity, Hardhat, Vercel       | [Live](https://sol-deed.vercel.app/)                 |
-| **AptoMart**  | NFT Bazaar        | Next.js, TypeScript, Aptos, Move, Wallet Adapter     | [Repo](https://github.com/dodaa08/AptoMart)          |
+| **AptoMart**  | MarketPlace on Aptos      | Next.js, TypeScript, Aptos, Move, Wallet Adapter     | [Repo](https://github.com/dodaa08/AptoMart)          |
 | **DEX**       | AMM Exchange      | Solidity, Foundry, Hardhat, Ethers.js                | [Repo](https://github.com/dodaa08/DEX)               |
 
 ---
@@ -41,7 +41,7 @@
 | ---------------------- | --------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
 | **Periskope**          | Chat Interface  | Next.js, WebSocket, Express.js                            | [Live](https://periskope-2nd-attempt.vercel.app/)            |
 | **Restaurant Companion** | AI Assistant    | Next.js, Tailwind CSS, Google Maps API, Gemini LLM API     | [Live](https://zoto-codecircuit-a4yg.vercel.app/)            |
-| **Zarva**              | Route Finder    | Node.js, Google Maps APIs (Directions, Distance Matrix)   | [Repo](https://github.com/dodaa08/Zarva)                     |
+| **Zarva**              | Safe Route Finder    | Node.js, Google Maps APIs (Directions, Distance Matrix)   | [Repo](https://github.com/dodaa08/Zarva)                     |
 | **Supply Chain Optimization** | Data Sci-Tool  | Python, Pandas, Streamlit                                  | [Repo](https://github.com/dodaa08/Supply-chain-optimization) |
 
 ---
