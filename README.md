@@ -2,7 +2,7 @@
   <h1>
      &nbsp;fullstack blockchain developer&nbsp; 
   </h1>
-  <h3>building solutions for // evm + solana + ai integration // passionate builder </h3>
+  <h3>building solutions for // evm • solana • ai sometimes </h3>
   <br/>
 </div>
 
