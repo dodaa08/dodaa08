@@ -1,58 +1,50 @@
 <div align="center">
-
-# Buidling on Evm Chains & Solana with a Bit of AI
-
+  <h1>
+    🚀 &nbsp;Building the Future&nbsp; 🌟
+  </h1>
+  <h3>crafting solutions across chains // evm + solana + ai integration // passionate builder 💻</h3>
+  <br/>
 </div>
 
----
+## what i'm shipping 🛠️
 
-## Web3 Projects
+### Cross-Chain & Infrastructure
 
-| Project       | Description      | Tech Stack                                           | Link                                                  |
-| ------------- | ---------------- | --------------------------------------------------- | ----------------------------------------------------- |
-| **EVM Bridge**| Cross-Chain Bridge| Next.js, TypeScript, Solidity, hardhat    | [Repo](https://github.com/dodaa08/Evm-Bridge)      |
-| **CarbonX**   | Impact Marketplace | Next.js, TypeScript, Solana, Anchor, on-chain NFTs   | [Live](https://canbonx.vercel.app/)                  |
-| **Quick Gigs**| Gig work onChain | Next.js, TypeScript, Solidity, Hardhat, Ethers.js    | [Repo](https://github.com/dodaa08/Quick-gigs)        |
-| **Sol-Deed**  | Job Ledger        | Next.js, TypeScript, Solidity, Hardhat, Vercel       | [Live](https://sol-deed.vercel.app/)                 |
-| **AptoMart**  | MarketPlace on Aptos      | Next.js, TypeScript, Aptos, Move, Wallet Adapter     | [Repo](https://github.com/dodaa08/AptoMart)          |
-| **DEX**       | AMM Exchange      | Solidity, Foundry, Hardhat, Ethers.js                | [Repo](https://github.com/dodaa08/DEX)               |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
+| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | Solidity, Foundry, Hardhat, Ethers.js |
+| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
 
----
+### Decentralized Applications
 
-## Bots & Automation
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [CarbonX](https://canbonx.vercel.app/) | Environmental impact marketplace | Next.js, TypeScript, Solana, Anchor, NFTs |
+| [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
+| [Sol-Deed](https://sol-deed.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
+| [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | Next.js, TypeScript, Aptos, Move |
 
-| Project              | Description     | Tech Stack                                  | Link                                                  |
-| -------------------- | --------------- | ------------------------------------------ | ----------------------------------------------------- |
-| **copperx-payout-bot** | USDC Disburser  | TypeScript, Telegram Bot API, Copperx API  | [Repo](https://github.com/dodaa08/copperx-payout-bot) |
+### AI-Powered Solutions
 
----
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
+| [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
 
-## DeFi & Trading
+### Communication & Automation
 
-| Project         | Description     | Tech Stack                                  | Link                                                  |
-| --------------- | --------------- | ------------------------------------------ | ----------------------------------------------------- |
-| **Trading-System** | Live Orderbook  | Node.js, JavaScript, WebSocket, Redis       | [Repo](https://github.com/dodaa08/Trading-System)     |
-
----
-
-## Web2 Projects
-
-| Project                | Description     | Tech Stack                                                | Link                                                         |
-| ---------------------- | --------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| **Periskope**          | Chat Interface  | Next.js, WebSocket, Express.js                            | [Live](https://periskope-2nd-attempt.vercel.app/)            |
-| **Restaurant Companion** | AI Assistant    | Next.js, Tailwind CSS, Google Maps API, Gemini LLM API     | [Live](https://zoto-codecircuit-a4yg.vercel.app/)            |
-| **Zarva**              | Safe Route Finder    | Node.js, Google Maps APIs (Directions, Distance Matrix)   | [Repo](https://github.com/dodaa08/Zarva)                     |
-| **Supply Chain Optimization** | Data Sci-Tool  | Python, Pandas, Streamlit                                  | [Repo](https://github.com/dodaa08/Supply-chain-optimization) |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Periskope](https://periskope-2nd-attempt.vercel.app/) | Real-time chat interface | Next.js, WebSocket, Express.js |
+| [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
+| [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
 
 ---
 
-## Links 
-- **Portfolio** → [https://kartikdoda.tech](https://kartikdoda.tech/)  
-  
 <div align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="180" />
-  <p><i>Thanks for stopping by! </i></p>
+  <p><strong>Portfolio:</strong> <a href="https://kartikdoda.tech">kartikdoda.tech</a></p>
+  <br/>
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="160" />
+  <p><i>always building, always learning ⚡</i></p>
 </div>
-
-
-
