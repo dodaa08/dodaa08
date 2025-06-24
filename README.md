@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-    🚀 &nbsp;Building the Future&nbsp; 🌟
+     &nbsp;FullStack Web3 Developer&nbsp; 
   </h1>
-  <h3>crafting solutions across chains // evm + solana + ai integration // passionate builder </h3>
+  <h3>Building Solutions for // evm  solana with some AI </h3>
   <br/>
 </div>
 
@@ -45,6 +45,6 @@
 <div align="center">
   <p><strong>Portfolio:</strong> <a href="https://kartikdoda.tech">kartikdoda.tech</a></p>
   <br/>
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="160" />
-  <p><i>always building, always learning ⚡</i></p>
+<!--   <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="160" />
+  <p><i>always building, always learning ⚡</i></p> -->
 </div>
