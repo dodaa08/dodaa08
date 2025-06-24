@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-     &nbsp;fullstack blockchain developer&nbsp; 
+     &nbsp;fullstack & blockchain developer&nbsp; 
   </h1>
   <h3>building solutions for // evm • solana • ai sometimes </h3>
   <br/>
