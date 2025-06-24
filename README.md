@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-     &nbsp;FullStack Web3 Developer&nbsp; 
+     &nbsp;fullstack blockchain developer&nbsp; 
   </h1>
-  <h3>Building Solutions for // evm  solana with some AI </h3>
+  <h3>building solutions for // evm + solana + ai integration // passionate builder </h3>
   <br/>
 </div>
 
