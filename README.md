@@ -2,11 +2,11 @@
   <h1>
     🚀 &nbsp;Building the Future&nbsp; 🌟
   </h1>
-  <h3>crafting solutions across chains // evm + solana + ai integration // passionate builder 💻</h3>
+  <h3>crafting solutions across chains // evm + solana + ai integration // passionate builder </h3>
   <br/>
 </div>
 
-## what i'm shipping 🛠️
+## what i'm shipping 
 
 ### Cross-Chain & Infrastructure
 
