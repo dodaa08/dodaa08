@@ -45,8 +45,8 @@
 
 <div align="center">
   <p><strong>Portfolio:</strong> <a href="https://kartikdoda.tech">kartikdoda.tech</a></p>
-  <br/>
-  <p><strong>Primary:</strong> >kartikdoda86@gmail.com</a></p>
+  
+  <p><strong>Primary:>kartikdoda86@gmail.com</a></p>
 <!--   <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" alt="Creative Loop" width="160" />
   <p><i>always building, always learning ⚡</i></p> -->
 </div>
