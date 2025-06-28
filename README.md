@@ -16,7 +16,7 @@
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | Solidity, Foundry, Hardhat, Ethers.js |
 | [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
 
-### Dapps and Impact
+### SVM EVM Aptos
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
