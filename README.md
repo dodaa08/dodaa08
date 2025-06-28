@@ -2,7 +2,7 @@
   <h1>
      &nbsp;fullstack & blockchain developer&nbsp; 
   </h1>
-  <h3>building solutions for // evm • solana • ai sometimes </h3>
+  <h3>building on // evm • solana • web • ai sometimes </h3>
   <br/>
 </div>
 
@@ -16,7 +16,7 @@
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | Solidity, Foundry, Hardhat, Ethers.js |
 | [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
 
-### Decentralized Applications
+### Dapps and Impact
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -25,14 +25,14 @@
 | [Sol-Deed](https://sol-deed.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | Next.js, TypeScript, Aptos, Move |
 
-### AI Solutions
+### Gen AI
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
 
-### Automation
+### Web
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
