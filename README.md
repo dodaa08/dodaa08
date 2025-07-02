@@ -39,7 +39,7 @@
 | [Periskope](https://periskope-2nd-attempt.vercel.app/) | Real-time chat interface | Next.js, WebSocket, supabase |
 | [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
-| [FindCards](https://github.com/dodaa08/find-cards) | Find credit cards with AI | Next.js, Gemini |
+| [FindCards](https://github.com/dodaa08/Find-Creditcards) | Find credit cards with AI | Next.js, Gemini |
 
 ---
 
