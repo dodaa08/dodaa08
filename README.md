@@ -13,9 +13,9 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [Sol-Deed](https://sol-deed.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
 | [CarbonX](https://canbonx.vercel.app/) | Environmental impact marketplace | Next.js, TypeScript, Solana, Anchor, NFTs |
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
-| [Sol-Deed](https://sol-deed.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | Next.js, TypeScript, Aptos, Move |
 
 
