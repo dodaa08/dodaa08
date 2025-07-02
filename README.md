@@ -8,13 +8,6 @@
 
 ## what i'm shipping 
 
-### Cross-Chain & Infrastructure
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
-| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | Solidity, Foundry, Hardhat, Ethers.js |
-| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
 
 ### SVM EVM Aptos
 
@@ -24,6 +17,16 @@
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
 | [Sol-Deed](https://sol-deed.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | Next.js, TypeScript, Aptos, Move |
+
+
+### Cross-Chain & Infrastructure
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
+| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | Solidity, Foundry, Hardhat, Ethers.js |
+| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
+
 
 ### Gen AI
 
