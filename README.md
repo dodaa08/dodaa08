@@ -43,6 +43,11 @@
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
 | [FindCards](https://github.com/dodaa08/Find-Creditcards) | Find credit cards with AI | Next.js, Gemini |
 
+
+### Cohorts 
+| [turbin3](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) | Monorepo of all my work for Q3 builders solana cohort |
+
+
 ---
 
 <div align="center">
