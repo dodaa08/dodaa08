@@ -6,10 +6,9 @@
   <br/>
 </div>
 
-## what i'm shipping 
 
 
-### SVM EVM Aptos
+### On chain Platforms
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -28,14 +27,14 @@
 | [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
 
 
-### Gen AI
+### Gen AI and web
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
 
-### Web
+### Hackathon projects and assignments
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
