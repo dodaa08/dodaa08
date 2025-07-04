@@ -47,7 +47,7 @@
 ### Cohorts 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [turbin3](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) | Monorepo of all my work for Q3 builders solana cohort |
+| [turbin3](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) | Monorepo of all my work for Q3 builders solana cohort | Rust, Solana, Typescript
 
 
 ---
