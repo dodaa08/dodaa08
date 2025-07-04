@@ -34,6 +34,14 @@
 | [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
 
+
+
+### CLI tools 
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [boily](https://github.com/dodaa08/boily) | A cli which helps you initialze all the boiler plate for building a full Stack appliaction in a turbo repo | Typescript |
+
+
 ### Hackathon projects and assignments
 
 | Project | Description | Technologies |
