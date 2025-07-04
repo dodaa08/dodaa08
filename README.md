@@ -33,7 +33,7 @@
 |---------|-------------|--------------|
 | [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
-
+| [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
 
 
 ### CLI tools 
