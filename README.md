@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-     &nbsp;fullstack • web3 developer&nbsp; 
+     &nbsp; Fullstack web3 developer&nbsp; 
   </h1>
   <h3>Building on Web • solana • evm • AI </h3>
   <br/>
