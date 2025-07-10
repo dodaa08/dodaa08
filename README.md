@@ -52,11 +52,12 @@
 | [FindCards](https://github.com/dodaa08/Find-Creditcards) | Find credit cards with AI | Next.js, Gemini |
 
 
-### Cohorts 
+### Smart Contracts and Programs 
+
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [turbin3](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) | Monorepo of all my work for Q3 builders solana cohort | Rust, Solana, Typescript |
-
+| [Solidity Contracts](https://github.com/dodaa08/Solidity-contracts) | Monorepo of all my work for Q3 builders solana cohort | Rust, Solana, Typescript |
+| [turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) | Monorepo of all my work for Q3 builders solana cohort | Rust, Solana, Typescript |
 
 ---
 
