@@ -2,7 +2,7 @@
   <h1>
      &nbsp;fullstack • web3 developer&nbsp; 
   </h1>
-  <h3>building on // evm • solana • web • ai sometimes </h3>
+  <h3>Building on Web • solana • evm • AI </h3>
   <br/>
 </div>
 
