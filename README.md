@@ -56,7 +56,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Solidity Contracts](https://github.com/dodaa08/Solidity-contracts) | Monorepo of all my work for Q3 builders solana cohort | Rust, Solana, Typescript |
+| [Solidity Contracts](https://github.com/dodaa08/Solidity-contracts) | Monorepo of all Eth Smart Contracts | Solidity, Typescript |
 | [turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) | Monorepo of all my work for Q3 builders solana cohort | Rust, Solana, Typescript |
 
 ---
