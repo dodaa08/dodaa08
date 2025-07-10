@@ -15,7 +15,7 @@
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
 | [Sol-Deed](https://soldeed-orpin.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
 | [CarbonX](https://canbonx.vercel.app/) | Environmental impact marketplace | Next.js, TypeScript, Solana, Anchor, NFTs |
-| [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | Next.js, TypeScript, Aptos, Move |
+| [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
 
 
 ### Cross-Chain & Infrastructure
@@ -23,8 +23,8 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
-| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | Solidity, Foundry, Hardhat, Ethers.js |
-| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | Node.js, WebSocket, Redis |
+| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
+| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, WebSocket, Redis |
 
 
 ### Gen AI and web
