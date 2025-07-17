@@ -7,6 +7,22 @@
 </div>
 
 
+### Cross-Chain & Infrastructure
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
+| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
+| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, WebSocket, Redis |
+
+
+### Hackathon projects and assignments
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
+| [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
+| [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
 
 ### On chain Platforms
 
@@ -18,38 +34,21 @@
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
 
 
-### Cross-Chain & Infrastructure
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
-| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
-| [Trading System](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, WebSocket, Redis |
-
-
 ### Gen AI and web
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
-| [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
+| [Periskope](https://periskope-2nd-attempt.vercel.app/) | Real-time chat interface | Next.js, WebSocket, supabase |
+| [FindCards](https://github.com/dodaa08/Find-Creditcards) | Find credit cards with AI | Next.js, Gemini |
+
 
 
 ### CLI tools 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [boily](https://github.com/dodaa08/boily) | A cli which helps you initialze all the boiler plate for building a full Stack appliaction in a turbo repo | Typescript |
-
-
-### Hackathon projects and assignments
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Periskope](https://periskope-2nd-attempt.vercel.app/) | Real-time chat interface | Next.js, WebSocket, supabase |
-| [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
-| [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
-| [FindCards](https://github.com/dodaa08/Find-Creditcards) | Find credit cards with AI | Next.js, Gemini |
 
 
 ### Smart Contracts and Programs 
