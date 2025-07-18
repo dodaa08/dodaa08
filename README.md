@@ -13,10 +13,8 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
-| [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donations Platform on Solana | Rust, Next.js, typescript |
-| [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
 | [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
-
+| [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donations Platform on Solana | Rust, Next.js, typescript |
 
 ### Cross-Chain & Infrastructure
 
@@ -28,22 +26,23 @@
 
 
 
+### Gen AI and web
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
+| [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
+| [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Streamlit |
+| [Chat App](https://github.com/dodaa08/Periskope-2nd-Attempt) | Real-time chat interface | Next.js, typescript, Supabase |
+
+
+
 ### On chain Platforms
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
-
-
-
-### Gen AI and web
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
-| [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Streamlit |
-| [Chat App](https://github.com/dodaa08/Periskope-2nd-Attempt) | Real-time chat interface | Next.js, typescript, Supabase |
 
 
 
