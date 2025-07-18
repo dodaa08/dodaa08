@@ -23,6 +23,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | Node.js, Google Maps APIs |
+| [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donation Platform on Solana | Rust, Next.js, typescript |
 | [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
 | [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
 
