@@ -33,8 +33,6 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
-| [Sol-Deed](https://soldeed-orpin.vercel.app/) | Blockchain-based job ledger system | Next.js, TypeScript, Solidity, Hardhat |
-| [CarbonX](https://canbonx.vercel.app/) | Environmental impact marketplace | Next.js, TypeScript, Solana, Anchor, NFTs |
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
 
 
@@ -46,15 +44,6 @@
 | [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Pandas, Streamlit |
 | [Periskope](https://periskope-2nd-attempt.vercel.app/) | Real-time chat interface | Next.js, WebSocket, supabase |
-| [FindCards](https://github.com/dodaa08/Find-Creditcards) | Find credit cards with AI | Next.js, Gemini |
-
-
-
-### CLI tools 
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [boily](https://github.com/dodaa08/boily) | A cli which helps you initialze all the boiler plate for building a full Stack appliaction in a turbo repo | Typescript |
 
 
 
