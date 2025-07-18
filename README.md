@@ -8,17 +8,7 @@
 
 
 
-### Cross-Chain & Infrastructure
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
-| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
-| [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, WebSocket, Redis |
-
-
-
-### Hackathon projects and assignments
+### Hackathon and Bounty Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -26,6 +16,15 @@
 | [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donations Platform on Solana | Rust, Next.js, typescript |
 | [Inklet](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
 | [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
+
+
+### Cross-Chain & Infrastructure
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
+| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
+| [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, WebSocket, Redis |
 
 
 
