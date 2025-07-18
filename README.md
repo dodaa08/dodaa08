@@ -31,7 +31,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Draw and Chat with Frenz](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
-| [Restaurant Companion](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
+| [Find Restaurants using Emoji's](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Streamlit |
 | [Chat App](https://github.com/dodaa08/Periskope-2nd-Attempt) | Real-time chat interface | Next.js, typescript, Supabase |
 
