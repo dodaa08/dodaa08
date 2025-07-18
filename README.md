@@ -22,7 +22,7 @@
 |---------|-------------|--------------|
 | [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Seamless cross-chain asset transfers | Next.js, TypeScript, Solidity, Hardhat |
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
-| [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, WebSocket, Redis |
+| [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, Chart.js, Express, MongoDb|
 
 
 
@@ -41,7 +41,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity, Hardhat |
+| [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity|
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
 
 
