@@ -14,6 +14,7 @@
 |---------|-------------|--------------|
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | React, Express, Node.js, Google Maps Api, GeoCoding API and a lot more... |
 | [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
+| [Draw and Chat with Frenz](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | Next.js, TypeScript, Prisma, Postgres, Turbo Repo, WebSockets, Express |
 | [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donations Platform on Solana | Rust, Next.js, typescript |
 
 ### Cross-Chain & Infrastructure
@@ -30,7 +31,6 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Draw and Chat with Frenz](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | turborepo, Next.js, express, typescript |
 | [Find Restaurants using Emoji's](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Streamlit |
 | [Chat App](https://github.com/dodaa08/Periskope-2nd-Attempt) | Real-time chat interface | Next.js, typescript, Supabase |
