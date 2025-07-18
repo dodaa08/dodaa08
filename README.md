@@ -21,7 +21,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Bridge Base Sepolia to Eth Sepolia on testnet | Next.js, TypeScript, Solidity, Hardhat |
+| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Bridge Base Sepolia to Eth Sepolia tokens | Next.js, TypeScript, Solidity, Hardhat |
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
 | [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, Chart.js, Express, MongoDb|
 
