@@ -13,7 +13,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | React, Express, Node.js, Google Maps Api, GeoCoding API and a lot more... |
-| [CopperX Payout Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
+| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | Automated USDC distribution system | TypeScript, Telegram Bot API, CopperX API |
 | [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donations Platform on Solana | Rust, Next.js, typescript |
 
 ### Cross-Chain & Infrastructure
