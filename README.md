@@ -13,7 +13,7 @@
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Zarva](https://github.com/dodaa08/Zarva) | Smart route optimization platform | React, Express, Node.js, Google Maps Api, GeoCoding API and a lot more... |
-| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx WorkFlow and use their Api's Faster | TypeScript, Telegram Bot API, CopperX API |
+| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
 | [Draw and Chat with Frenz](https://github.com/dodaa08/Inklet) | Create rooms to scribble and chat with friends | Next.js, TypeScript, Prisma, Postgres, Turbo Repo, WebSockets, Express |
 | [CarbonX](https://github.com/dodaa08/CarbonX-sol) | Donations Platform on Solana | Rust, Next.js, typescript |
 
