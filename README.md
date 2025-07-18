@@ -41,7 +41,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain freelance work platform | Next.js, TypeScript, Solidity, Hardhat |
+| [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity, Hardhat |
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
 
 
