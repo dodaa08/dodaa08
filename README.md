@@ -34,8 +34,6 @@
 | [Find Restaurants using Emoji's](https://zoto-codecircuit-a4yg.vercel.app/) | Intelligent dining assistant | Next.js, Tailwind CSS, Google Maps API, Gemini LLM |
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Streamlit |
 | [Chat App](https://github.com/dodaa08/Periskope-2nd-Attempt) | Real-time chat interface | Next.js, typescript, Supabase |
-| [Second Brain Web app](https://github.com/dodaa08/Second-brain) | A webapp for you saving your fav Tweets, yt Videos with their links | React.js, Express, Node.js, MongoDB |
-
 
 ### Smart Contracts and Programs 
 
