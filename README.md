@@ -7,7 +7,6 @@
 </div>
 
 
-
 ### Hackathon and Bounty Projects
 
 | Project | Description | Technologies |
