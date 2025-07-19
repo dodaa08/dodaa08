@@ -40,7 +40,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Pump.fun like Platform in Ethereum)](https://github.com/dodaa08/MemeBazaar) | Meme Coin Marketplace of ERC720 Tokens on Ethereum (Smart Contract!)| Soldity, Hardhat|
+| [Pump.fun like Platform on Ethereum)](https://github.com/dodaa08/MemeBazaar) | Meme Coin Marketplace of ERC720 Tokens on Ethereum (Smart Contract!)| Soldity, Hardhat|
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity, Supabase|
 | [AptoMart](https://github.com/dodaa08/AptoMart) | Multi-chain marketplace on Aptos | React, TypeScript, Aptos, Move |
 
