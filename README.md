@@ -22,7 +22,7 @@
 | [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Bridge Base Sepolia to Eth Sepolia tokens | Next.js, TypeScript, Solidity, Hardhat |
 | [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, Chart.js, Express, MongoDb|
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity, Supabase|
-| [Pump.fun like Platform on Ethereum)](https://github.com/dodaa08/MemeBazaar) | Meme Coin Marketplace of ERC20 Tokens on Ethereum (Smart Contract!)| Soldity, Hardhat|
+| [Memecoin Marketplace on Ethereum)](https://github.com/dodaa08/MemeBazaar) | Meme Coin Marketplace of ERC20 Tokens on Ethereum (Smart Contract!)| Soldity, Hardhat|
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
 
 
