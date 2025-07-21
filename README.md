@@ -13,7 +13,7 @@
 |---------|-------------|--------------|
 | [Find safer routes on Google maps](https://github.com/dodaa08/Zarva) | Smart route optimization platform | React, Express, Node.js, Google Maps Api, GeoCoding API and a lot more... |
 | [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
-| [UniSwap Leaderboard](https://github.com/dodaa08/uniswap-leaderboard-) | Fetched the current trading data on Zora token (Base) to created a LeaderBoard | Rust, Axum, Next.js, Typescript|
+| [UniSwap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to created a LeaderBoard | Rust, Axum, Next.js, Typescript|
 
 ### Cross-Chain & On-Chain Platforms
 
