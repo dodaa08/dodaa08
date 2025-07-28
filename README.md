@@ -15,7 +15,7 @@
 | [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
 | [Uniswap leaderboard of Current trades on a token](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to created a LeaderBoard | Rust, Axum, Next.js, Typescript|
 
-### Cross & On-Chain Platforms
+### Cross and On-Chain Platforms
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -26,7 +26,7 @@
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
 
 
-### Gen AI & web
+### Gen AI and web
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
