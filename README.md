@@ -2,7 +2,7 @@
   <h1>
      &nbsp; Fullstack & Blockchain&nbsp; 
   </h1>
-  <h3>Building on Web • solana • evm • AI </h3>
+  <h3>Building on Web • solana • evm </h3>
   <br/>
 </div>
 
