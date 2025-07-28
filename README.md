@@ -7,7 +7,7 @@
 </div>
 
 
-### Hackathon and Bounty Projects
+### Hackathons and Bounty Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -15,7 +15,7 @@
 | [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
 | [Uniswap leaderboard of Current trades on a token](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to created a LeaderBoard | Rust, Axum, Next.js, Typescript|
 
-### Cross-Chain & On-Chain Platforms
+### Cross & On-Chain Platforms
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -26,7 +26,7 @@
 | [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
 
 
-### Gen AI and web
+### Gen AI & web
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -35,7 +35,7 @@
 | [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) | Data-driven logistics optimization | Python, Streamlit |
 | [Chat App](https://github.com/dodaa08/Periskope-2nd-Attempt) | Real-time chat interface | Next.js, typescript, Supabase |
 
-### Smart Contracts and Programs 
+### Smart Contracts 
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
