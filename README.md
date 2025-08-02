@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-     &nbsp; Fullstack & Blockchain&nbsp; 
+     &nbsp; Building on Web • solana • evm  &nbsp; 
   </h1>
-  <h3>Building on Web • solana • evm </h3>
+<!--   <h3></h3> -->
   <br/>
 </div>
 
