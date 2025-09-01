@@ -23,7 +23,7 @@
 | [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, Chart.js, Express, MongoDb|
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity, Supabase|
 | [Memecoin Marketplace on Ethereum)](https://github.com/dodaa08/MemeBazaar) | Meme Coin Marketplace of ERC20 Tokens on Ethereum (Smart Contract!)| Soldity, Hardhat|
-| [DEX](https://github.com/dodaa08/DEX) | Automated Market Maker implementation | React, Solidity, Hardhat |
+| [DEX](https://github.com/dodaa08/DEX) | DExchange on EVM | React, Solidity, Hardhat |
 
 
 ### Gen AI and web
