@@ -1,6 +1,8 @@
 <div align="center">
   <h1>
-     &nbsp; Building on Blockchains and Web  &nbsp; 
+     &nbsp; Building on &nbsp; 
+     &nbsp; blockchains &nbsp; 
+     &nbsp; Web2 &nbsp; 
   </h1>
 <!--   <h3></h3> -->
   <br/>
