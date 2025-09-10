@@ -20,7 +20,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, RestAPI |
+| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain-monad) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, RestAPI |
 | [Blockchain Indexer for CEX (Eth)](https://github.com/dodaa08/CEX) | Handled indexing and Caching of Blocks on ethereum using redis and built a CEX for handling Crypto trading | Solidity, Hardhat, Nextjs, RestAPI, Nodejs, Express |
 
 
