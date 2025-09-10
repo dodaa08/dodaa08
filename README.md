@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-     &nbsp; Building on Web • solana • evm  &nbsp; 
+     &nbsp; Building on Blockchains and Web  &nbsp; 
   </h1>
 <!--   <h3></h3> -->
   <br/>
