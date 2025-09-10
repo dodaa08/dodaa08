@@ -1,8 +1,6 @@
 <div align="center">
   <h1>
-     &nbsp; Building on &nbsp; 
-     &nbsp; blockchains &nbsp; 
-     &nbsp; Web2 &nbsp; 
+     &nbsp; Some of my Fav builds&nbsp; 
   </h1>
 <!--   <h3></h3> -->
   <br/>
