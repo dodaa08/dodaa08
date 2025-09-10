@@ -15,6 +15,15 @@
 | [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
 | [Uniswap leaderboard of Current trades on a token](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to created a LeaderBoard | Rust, Axum, Next.js, Typescript, Uniswapv3|
 
+
+### Intern Work and Fafo projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, RestAPI |
+| [Blockchain Indexer for CEX (Eth)](https://github.com/dodaa08/CEX) | Handled indexing and Caching of Blocks on ethereum using redis and built a CEX for handling Crypto trading | Solidity, Hardhat, Nextjs, RestAPI, Nodejs, Express |
+
+
 ### Cross and On-Chain Platforms
 
 | Project | Description | Technologies |
