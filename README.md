@@ -7,23 +7,22 @@
 </div>
 
 
-### Hackathons and Bounty Projects
+### Hackathon | Bounty | Gig work
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
 | [Uniswap leaderboard of Current trades on a token](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to create a LeaderBoard | Rust, Axum, Next.js, Typescript, Uniswapv3|
-| [Blockchain Indexer for CEX (Eth)](https://github.com/dodaa08/CEX) | Handled indexing and Caching of Blocks on ethereum using redis and built a CEX for handling Crypto trading | Solidity, Hardhat, Redis, Nextjs, Express |
+| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
+| [Blockchain Indexer for CEX (Eth)](https://github.com/dodaa08/CEX) | Handled indexing and Caching of Blocks on ethereum using redis and built a CEX for handling Crypto trading | Solidity, Hardhat, Redis, Express |
 
-### Intern Work and Fafo projects
+### Intern work, Projects I built from ground up
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain-monad) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, Express |
 | [Find safer routes on Google maps](https://github.com/dodaa08/Zarva) | Smart route optimization platform | React, Express, Node.js, Google Maps Api, GeoCoding API and a lot more... |
+| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain-monad) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, Express |
 
-
-### Cross and On-Chain Platforms
+### Web3 Infra
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
