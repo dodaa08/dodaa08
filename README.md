@@ -7,26 +7,28 @@
 </div>
 
 
-### Hackathon | Bounty | Gig work
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Uniswap leaderboard of Current trades on a token](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to create a LeaderBoard | Rust, Axum, Next.js, Typescript, Uniswapv3|
-| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
-| [Blockchain Indexer for CEX (Eth)](https://github.com/dodaa08/CEX) | Handled indexing and Caching of Blocks on ethereum using redis and built a CEX for handling Crypto trading | Solidity, Hardhat, Redis, Express |
-
 ### Intern work, Projects I built from ground up
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain-monad) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, Express, Redis, MongoDB |
+| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Bridge Base Sepolia to Eth Sepolia tokens | Next.js, TypeScript, Solidity, Hardhat |
 | [Find safer routes on Google maps](https://github.com/dodaa08/Zarva) | Smart route optimization platform | React, Express, Node.js, Google Maps Api, GeoCoding API and a lot more... |
-| [Casino-Onchain game on Monad](https://github.com/dodaa08/Casino-onchain-monad) | A game like death.fun on monad chain | Solidity, Hardhat, Nextjs, Express |
+
+
+### Hackathon | Bounty | Gig work
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Blockchain Indexer for CEX (Eth)](https://github.com/dodaa08/CEX) | Handled indexing and Caching of Blocks on ethereum using redis and built a CEX for handling Crypto trading | Solidity, Hardhat, Redis, Express |
+| [Uniswap leaderboard of Current trades on a token](https://github.com/dodaa08/uniswap_leaderboard-) | Fetched the current trading data on Zora token (Base) to create a LeaderBoard | Rust, Axum, Next.js, Typescript, Uniswapv3|
+| [CopperxPay Tg Bot](https://github.com/dodaa08/copperx-payout-bot) | A Tg bot to automate Copperx's WorkFlow | TypeScript, Telegram Bot API, CopperX API |
+
 
 ### Web3 Infra
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) | Bridge Base Sepolia to Eth Sepolia tokens | Next.js, TypeScript, Solidity, Hardhat |
 | [Centralized Order Book](https://github.com/dodaa08/Trading-System) | Real-time orderbook with live updates | React, Node.js, Chart.js, Express, MongoDb|
 | [Quick Gigs](https://github.com/dodaa08/Quick-gigs) | On-chain Markatplace for Gig Workers | Next.js, TypeScript, Solidity, Supabase|
 | [Memecoin Marketplace on Ethereum)](https://github.com/dodaa08/MemeBazaar) | Meme Coin Marketplace of ERC20 Tokens on Ethereum (Smart Contract!)| Soldity, Hardhat|
