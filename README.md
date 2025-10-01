@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>
-     &nbsp; Some of my Fav builds&nbsp; 
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2d3748; margin-bottom: 0;">
+       Checkout my Work!
   </h1>
-<!--   <h3></h3> -->
+  <p style="font-style: italic; color: #718096; margin-top: 8px;">Building the future, one project at a time</p>
   <br/>
 </div>
 
