@@ -2,7 +2,7 @@
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2d3748; margin-bottom: 0;">
        Checkout my Work!
   </h1>
-  <p style="font-style: italic; color: #718096; margin-top: 8px;">FullStack | Blockchain | Agents | Rust | Solidity</p>
+  <p style="font-style: italic; color: #718096; margin-top: 8px;">FullStack | Blockchain | Rust | Solidity</p>
   <br/>
 </div>
 
