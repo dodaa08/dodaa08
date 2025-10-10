@@ -10,16 +10,16 @@
 
 ### 
 
-[Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *The Monad Gaming Revolution*  
-Engineered a death.fun-inspired gaming platform on Monad chain. Full-stack architecture with smart contract integration, real-time gameplay, and robust backend infrastructure.  
+[Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
+A death.fun-inspired game on Monad chain.  
 `Solidity` `Hardhat` `Next.js` `Express` `Redis` `MongoDB`
 
 [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) - *Cross-Chain Asset Transfer*  
-Seamless token bridging between Base Sepolia and Ethereum Sepolia. Built with security-first approach and optimized gas efficiency.  
+Token bridging between Base Sepolia and Ethereum Sepolia.  
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
-[Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) - *Safety-First Navigation*  
-Intelligent route optimization platform that prioritizes user safety. Integrates multiple APIs for real-time data processing and smart recommendations.  
+[Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) -
+Intelligent route optimization platform for user safety. Integrates multiple APIs for real-time processing and smart recommendations.  
 `React` `Express` `Node.js` `Google Maps API` `GeoCoding API`
 
 ---
@@ -27,15 +27,15 @@ Intelligent route optimization platform that prioritizes user safety. Integrates
 ##  Hackathon & Bounty projects
 
 [Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) - *High-Performance Trading Infrastructure*  
-Built enterprise-grade indexing system for Ethereum blocks with Redis caching. Complete CEX implementation for crypto trading with real-time data processing.  
+Built enterprise-grade indexing system for Ethereum blocks with Redis caching. Complete CEX implementation for crypto trading.  
 `Solidity` `Hardhat` `Redis` `Express`
 
 [Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Trading Analytics*  
-Live trading data visualization for Zora token on Base chain. Rust-powered backend with sleek Next.js frontend for ultimate performance.  
+Live trading data visualization for Zora token on Base chain. 
 `Rust` `Axum` `Next.js` `TypeScript` `Uniswap v3`
 
 [CopperxPay Telegram Bot](https://github.com/dodaa08/copperx-payout-bot) - *Workflow Automation*  
-Streamlined CopperX's payment workflows through intelligent Telegram bot integration. Reduced manual processing time by 80%.  
+Streamlined CopperX's payment workflows through intelligent Telegram bot integration.  
 `TypeScript` `Telegram Bot API` `CopperX API`
 
 ---
@@ -43,27 +43,27 @@ Streamlined CopperX's payment workflows through intelligent Telegram bot integra
 ##  Web3 Infrastructure
 
 [Centralized Order Book](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine*  
-High-frequency trading system with live order book updates, advanced charting, and institutional-grade performance.  
+High-frequency trading system with live order book updates, advanced charting.
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
 
 [Quick Gigs](https://github.com/dodaa08/Quick-gigs) - *Decentralized Freelance Marketplace*  
-On-chain marketplace connecting gig workers with clients. Smart contract-powered escrow and reputation system.  
+On-chain marketplace connecting gig workers with clients. escrow and reputation system.  
 `Next.js` `TypeScript` `Solidity` `Supabase`
 
 [MemeBazaar](https://github.com/dodaa08/MemeBazaar) - 
-Complete ERC20 token marketplace on Ethereum. Custom smart contracts for secure and efficient meme coin trading.  
+Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
 `Solidity` `Hardhat`
 
 [Decentralized Exchange](https://github.com/dodaa08/DEX) - *EVM-Compatible Trading Platform*  
-Full-featured DEX with automated market making, liquidity pools, and yield farming capabilities.  
+Full-featured DEX with automated market making, liquidity pools.
 `React` `Solidity` `Hardhat`
 
 ---
 
-##  AI & Modern Web
+##  AI & Web
 
 [Inklet - Draw & Chat](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
-Multi-user drawing and chat platform with WebSocket integration. Built with modern monorepo architecture and real-time synchronization.  
+Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
 🍕 [Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *AI-Powered Dining Assistant*  
@@ -82,11 +82,11 @@ Machine learning-powered optimization for supply chain networks. Streamlit-based
 
 ##  Smart Contracts
 
-[Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) - *Ethereum Smart Contract*  
+[Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) -
 Collection of all the Ethereum hardhat Ethereum Smart Contracts I built.  
 `Solidity` `TypeScript`
 
-[Turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) - *Solana Development Journey*  
+[Turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) - *Solana Development*  
 Complete Q3 Builders cohort work showcasing advanced Rust programming and Solana blockchain development.  
 `Rust` `Solana` `TypeScript`
 
