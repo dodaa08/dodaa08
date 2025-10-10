@@ -26,8 +26,8 @@ Route optimization platform for user safety. Integrates multiple APIs for real-t
 
 ##  Hackathon & Bounty projects
 
-[Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) - *High-Performance Trading Infrastructure*  
-Built enterprise-grade indexing system for Ethereum blocks with Redis caching. Complete CEX implementation for crypto trading.  
+[Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) -  
+Built indexing system for Ethereum blocks with Redis caching. Complete CEX implementation for crypto trading.  
 `Solidity` `Hardhat` `Redis` `Express`
 
 [Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Trading Analytics*  
@@ -47,15 +47,15 @@ High-frequency trading system with live order book updates, advanced charting.
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
 
 [Quick Gigs](https://github.com/dodaa08/Quick-gigs) - *Decentralized Freelance Marketplace*  
-On-chain marketplace connecting gig workers with clients. escrow and reputation system.  
+On-chain marketplace connecting gig workers with clients.
 `Next.js` `TypeScript` `Solidity` `Supabase`
 
 [MemeBazaar](https://github.com/dodaa08/MemeBazaar) - 
 Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
 `Solidity` `Hardhat`
 
-[Decentralized Exchange](https://github.com/dodaa08/DEX) - *EVM-Compatible Trading Platform*  
-Full-featured DEX with automated market making, liquidity pools.
+[Decentralized Exchange](https://github.com/dodaa08/DEX) - *EVM DEX*  
+DEX with automated market making, liquidity pools.
 
 `React` `Solidity` `Hardhat`
 
@@ -63,7 +63,7 @@ Full-featured DEX with automated market making, liquidity pools.
 
 ##  AI & Web
 
-[Inklet - Draw & Chat](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
+[Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
 Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
