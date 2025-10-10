@@ -56,6 +56,7 @@ Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme co
 
 [Decentralized Exchange](https://github.com/dodaa08/DEX) - *EVM-Compatible Trading Platform*  
 Full-featured DEX with automated market making, liquidity pools.
+
 `React` `Solidity` `Hardhat`
 
 ---
