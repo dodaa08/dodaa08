@@ -3,6 +3,7 @@
       Checkout my Work!
   </h1>
   <p style="font-style: italic; color: #718096; margin-top: 8px;">FullStack | Blockchain | Rust | Solidity</p>
+   <!-- <p style="font-style: italic; color: #718096; margin-top: 8px;">FullStack | Blockchain | Rust | Solidity</p> -->
   <br/>
 </div>
 
