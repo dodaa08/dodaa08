@@ -19,7 +19,7 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
 [Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) -
-Intelligent route optimization platform for user safety. Integrates multiple APIs for real-time processing and smart recommendations.  
+Route optimization platform for user safety. Integrates multiple APIs for real-time processing and smart recommendations.  
 `React` `Express` `Node.js` `Google Maps API` `GeoCoding API`
 
 ---
@@ -67,8 +67,8 @@ Full-featured DEX with automated market making, liquidity pools.
 Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
-🍕 [Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *AI-Powered Dining Assistant*  
-Revolutionary restaurant discovery using emoji inputs and Gemini LLM. Natural language processing meets location intelligence.  
+🍕 [Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
+Restaurant discovery using emoji inputs and Gemini LLM. Natural language processing meets location intelligence.  
 `Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
 [Supply Chain Optimizer](https://github.com/dodaa08/Supply-chain-optimization) - *Data-Driven Logistics*  
@@ -76,7 +76,7 @@ Machine learning-powered optimization for supply chain networks. Streamlit-based
 `Python` `Streamlit`
 
 [Periskope Chat](https://github.com/dodaa08/Periskope-2nd-Attempt) -  
-  Real-time chat application with Supabase backend and TypeScript-first architecture.  
+  Real-time chat application.  
 `Next.js` `TypeScript` `Supabase`
 
 ---
@@ -84,11 +84,11 @@ Machine learning-powered optimization for supply chain networks. Streamlit-based
 ##  Smart Contracts
 
 [Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) -
-Collection of all the Ethereum hardhat Ethereum Smart Contracts I built.  
+Collection of all my hardhat Ethereum Smart Contracts.  
 `Solidity` `TypeScript`
 
 [Turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) - *Solana Development*  
-Complete Q3 Builders cohort work showcasing advanced Rust programming and Solana blockchain development.  
+Complete Q3 Builders cohort work, Rust programming and Solana blockchain development.  
 `Rust` `Solana` `TypeScript`
 
 ---
