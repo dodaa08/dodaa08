@@ -19,7 +19,7 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
 [Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) -
-Route optimization platform for user safety. Integrates multiple APIs for real-time processing and smart recommendations.  
+APIs for real-time processing and smart recommendations.  
 `React` `Express` `Node.js` `Google Maps API` `GeoCoding API`
 
 ---
