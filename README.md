@@ -24,7 +24,6 @@ Route optimization platform for user safety. Integrates multiple APIs for real-t
 
 ---
 
-##  Hackathon & Bounty projects
 
 [Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) -  
 Built indexing system for Ethereum blocks with Redis caching. Complete CEX implementation for crypto trading.  
@@ -40,7 +39,6 @@ Streamlined CopperX's payment workflows through intelligent Telegram bot integra
 
 ---
 
-##  Web3 Infrastructure
 
 [Centralized Order Book](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine*  
 High-frequency trading system with live order book updates, advanced charting.
@@ -61,7 +59,6 @@ DEX with automated market making, liquidity pools.
 
 ---
 
-##  AI & Web
 
 [Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
 Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
@@ -81,7 +78,6 @@ Machine learning-powered optimization for supply chain networks. Streamlit-based
 
 ---
 
-##  Smart Contracts
 
 [Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) -
 Collection of all my hardhat Ethereum Smart Contracts.  
