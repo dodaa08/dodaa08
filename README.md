@@ -64,7 +64,7 @@ DEX with automated market making, liquidity pools.
 Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
-🍕 [Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
+[Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
 Restaurant discovery using emoji inputs and Gemini LLM. Natural language processing meets location intelligence.  
 `Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
