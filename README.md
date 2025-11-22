@@ -23,7 +23,7 @@ Built indexing system for Ethereum blocks with Redis caching.
 `Solidity` `Hardhat` `Redis` `Express` `typescript` 
 
 [Apto Mart](https://github.com/vishuRizz/aptomart) - Marketplace  
-Built indexing system for Ethereum blocks with Redis caching. 
+Book selling marketplace on Aptos 
 `Aptos` `Move` `typescript` 
 
 
