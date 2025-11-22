@@ -18,11 +18,11 @@ A death.fun-inspired game on Monad chain.
 Token bridging between Base Sepolia and Ethereum Sepolia.  
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
-[Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) - 'CEX'  
+[Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) - CEX
 Built indexing system for Ethereum blocks with Redis caching. 
 `Solidity` `Hardhat` `Redis` `Express` `typescript` 
 
-[Apto Mart](https://github.com/vishuRizz/aptomart) - 'Marketplace'  
+[Apto Mart](https://github.com/vishuRizz/aptomart) - Marketplace  
 Built indexing system for Ethereum blocks with Redis caching. 
 `Aptos` `Move` `typescript` 
 
