@@ -22,11 +22,6 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 Built indexing system for Ethereum blocks with Redis caching. 
 `Solidity` `Hardhat` `Redis` `Express` `typescript` 
 
-[Apto Mart](https://github.com/vishuRizz/aptomart) - Marketplace  
-Book selling marketplace on Aptos 
-`Aptos` `Move` `typescript` 
-
-
 ---
 
 [Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) -  Google maps with real-time processing and smart recommendations.  
