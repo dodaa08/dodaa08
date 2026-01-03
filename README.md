@@ -73,6 +73,9 @@ Restaurant discovery using emoji inputs with Gemini
 [Find onChain jobs](https://github.com/dodaa08/soldeed-) - *Jobs on Solana, Might contain old data* 
 `Next.js` `Tailwind CSS` `Supabase`
 
+[Find Credit cards with AI](https://github.com/dodaa08/Find-Creditcards) 
+`Next.js` `Tailwind CSS` `Google Gemini`
+
 ---
 **Smart Contracts**
 
