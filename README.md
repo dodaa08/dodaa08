@@ -24,7 +24,7 @@ Built indexing system for Ethereum blocks with Redis caching.
 
 **Backend Heavy**
 
-[Trade crypto N8N style](Ongoing)(https://github.com/dodaa08/trading-bot-n8n) -  N8N style trading bot for trading, create workflows for automation. 
+[Trade crypto N8N style (Ongoing)](https://github.com/dodaa08/trading-bot-n8n) -  N8N style trading bot for trading, create workflows for automation. 
 `turbo repo` `React` `Typescript` `Node.js` `MongoDB` `Express` `Algorithms`
 
 [Assignment project for live attandance](https://github.com/dodaa08/trading-bot-n8n) - Coded a Real time attandance system in typescript
@@ -59,11 +59,11 @@ On-chain marketplace connecting gig workers with clients.
 
 **Vibecoded**
 
-[Emoji Restaurant Finder](Vibecoded)(https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
+[Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
 Restaurant discovery using emoji inputs with Gemini
 `Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
-[Find Jobs on Solana](Vibecoded)(https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
+[Find Jobs on Solana](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
 Restaurant discovery using emoji inputs with Gemini
 `Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
