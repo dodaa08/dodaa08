@@ -70,9 +70,8 @@ On-chain marketplace connecting gig workers with clients.
 Restaurant discovery using emoji inputs with Gemini
 `Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
-[Find Jobs on Solana](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
-Restaurant discovery using emoji inputs with Gemini
-`Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
+[Find onChain jobs](https://github.com/dodaa08/soldeed-) - *Jobs on Solana, Might contain old data* 
+`Next.js` `Tailwind CSS` `Supabase`
 
 ---
 **Smart Contracts**
