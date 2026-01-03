@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-style: italic; color: #718096; margin-top: 8px;">Hoping to build more and better this year and have a section for OSS too</p>
+  <h1 style="font-style: italic; color: #718096; margin-top: 8px;">Hoping to build more and better this year and have a section for OSS too</h1>
   <br/>
 </div>
 
