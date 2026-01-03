@@ -46,7 +46,7 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
 ---
-
+**Category : built during 1st year of College**
 
 [Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine*  in Javascript.
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
@@ -54,10 +54,6 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 [Quick Gigs](https://github.com/dodaa08/Quick-gigs) - *Decentralized Freelance Marketplace*  
 On-chain marketplace connecting gig workers with clients.
 `Next.js` `TypeScript` `Solidity` `Supabase`
-
-[MemeBazaar](https://github.com/dodaa08/MemeBazaar) - 
-Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
-`Solidity` `Hardhat`
 
 ---
 
@@ -81,3 +77,7 @@ Collection of all my hardhat Ethereum Smart Contracts.
 [Turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) - *Solana Development*  
 Complete Q3 Builders cohort work, Rust programming and Solana blockchain development.  
 `Rust` `Solana` `TypeScript`
+
+[MemeBazaar](https://github.com/dodaa08/MemeBazaar) - 
+Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
+`Solidity` `Hardhat`
