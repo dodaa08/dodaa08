@@ -6,7 +6,7 @@
 
 
 ### 
-** General Web3**
+**General Web3**
 
 [Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
 A death.fun-inspired game on Monad chain.  
