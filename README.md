@@ -46,6 +46,13 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
 ---
+**Solana**
+
+[Death.fun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
+A death.fun-inspired game on Solana as well.  
+`Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
+
+---
 **Category : built during 1st year of College**
 
 [Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine*  in Javascript.
@@ -81,3 +88,5 @@ Complete Q3 Builders cohort work, Rust programming and Solana blockchain develop
 [MemeBazaar](https://github.com/dodaa08/MemeBazaar) - 
 Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
 `Solidity` `Hardhat`
+
+**Now below will pin the ones I am working mostly in free time**
