@@ -1,14 +1,12 @@
 <div align="center">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #2d3748; margin-bottom: 0;">
-      Checkout my Work!
-  </h1>
-  <p style="font-style: italic; color: #718096; margin-top: 8px;">FullStack | Blockchain | Solidity </p>
+  <p style="font-style: italic; color: #718096; margin-top: 8px;">Hoping to build more and better this year and have a section for OSS too</p>
    <!-- <p style="font-style: italic; color: #718096; margin-top: 8px;">FullStack | Blockchain | Rust | Solidity</p> -->
   <br/>
 </div>
 
 
 ### 
+** General Web3**
 
 [Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
 A death.fun-inspired game on Monad chain.  
@@ -24,9 +22,16 @@ Built indexing system for Ethereum blocks with Redis caching.
 
 ---
 
+**Backend Heavy**
+
+[Trade crypto N8N style](Ongoing)(https://github.com/dodaa08/trading-bot-n8n) -  N8N style trading bot for trading, create workflows for automation. 
+`turbo repo` `React` `Typescript` `Node.js` `MongoDB` `Express` `Algorithms`
+
+[Assignment project for live attandance](https://github.com/dodaa08/trading-bot-n8n) - Coded a Real time attandance system in typescript
+`Typescript` `Node.js` `MongoDB` `Express` `Querying` `Websockets`
+
 [Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) -  Google maps with real-time processing and smart recommendations.  
 `React` `Express` `Node.js` `Google Maps API` `GeoCoding API`
-
 
 [Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Leaderboard*  
 Live trading data visualization for Zora token on Base chain. 
@@ -35,6 +40,10 @@ Live trading data visualization for Zora token on Base chain.
 [CopperxPay Telegram Bot](https://github.com/dodaa08/copperx-payout-bot) - *Workflow Automation*  
 Streamlined CopperX's payment workflows through intelligent Telegram bot integration.  
 `TypeScript` `Telegram Bot API` `CopperX API`
+
+[Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
+Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
 ---
 
@@ -52,22 +61,18 @@ Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme co
 
 ---
 
+**Vibecoded**
 
-[Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
-Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
-
-[Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
+[Emoji Restaurant Finder](Vibecoded)(https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
 Restaurant discovery using emoji inputs with Gemini
 `Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
-
-[Periskope Chat](https://github.com/dodaa08/Periskope-2nd-Attempt) -  
-  Real-time chat application.  
-`Next.js` `TypeScript` `Supabase`
+[Find Jobs on Solana](Vibecoded)(https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
+Restaurant discovery using emoji inputs with Gemini
+`Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
 
 ---
-
+**Smart Contracts**
 
 [Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) -
 Collection of all my hardhat Ethereum Smart Contracts.  
@@ -76,11 +81,3 @@ Collection of all my hardhat Ethereum Smart Contracts.
 [Turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) - *Solana Development*  
 Complete Q3 Builders cohort work, Rust programming and Solana blockchain development.  
 `Rust` `Solana` `TypeScript`
-
----
-
-<div align="center">
-  <!-- <h3>🌟 Always Building, Always Learnin</h3> -->
-  <p><strong> Contact :</strong> kartikdoda86@gmail.com</p>
-  <!-- <p><em>Turning ideas into reality, one commit at a time ⚡</em></p> -->
-</div>
