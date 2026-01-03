@@ -46,7 +46,7 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
 ---
-**Solana**
+**Trying Solana**
 
 [Death.fun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
 A death.fun-inspired game on Solana as well.  
