@@ -89,4 +89,4 @@ Complete Q3 Builders cohort work, Rust programming and Solana blockchain develop
 Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
 `Solidity` `Hardhat`
 
-**Now below will pin the ones I am working mostly in free time**
+**Now will pin below the latest ones below which I am mostly working on daily**
