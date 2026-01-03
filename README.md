@@ -3,7 +3,7 @@
   <br/>
 </div>
 
-## General Web3
+**General Web3**
 
 [Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
 A death.fun-inspired game on Monad chain.  
@@ -19,7 +19,7 @@ Built indexing system for Ethereum blocks with Redis caching.
 
 ---
 
-## Backend Heavy
+**Backend Heavy**
 
 [Trade crypto N8N style (Ongoing)](https://github.com/dodaa08/trading-bot-n8n) - N8N style trading bot for trading, create workflows for automation.  
 `Turbo Repo` `React` `TypeScript` `Node.js` `MongoDB` `Express` `Algorithms`
@@ -44,7 +44,7 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 
 ---
 
-## Trying Solana
+**Trying Solana**
 
 [Death.fun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
 A death.fun-inspired game on Solana as well.  
@@ -52,7 +52,7 @@ A death.fun-inspired game on Solana as well.
 
 ---
 
-## Category: built during 1st year of College
+**Category: built during 1st year of Colleg**
 
 [Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine* in Javascript.  
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
@@ -63,7 +63,7 @@ On-chain marketplace connecting gig workers with clients.
 
 ---
 
-## Vibecoded
+**Vibecoded**
 
 [Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
 Restaurant discovery using emoji inputs with Gemini  
@@ -77,7 +77,7 @@ Restaurant discovery using emoji inputs with Gemini
 
 ---
 
-## Smart Contracts
+**Smart Contracts**
 
 [Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) - Collection of all my hardhat Ethereum Smart Contracts.  
 `Solidity` `TypeScript`
