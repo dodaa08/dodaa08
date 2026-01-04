@@ -86,9 +86,6 @@ Restaurant discovery using emoji inputs with Gemini
 Complete Q3 Builders cohort work, Rust programming and Solana blockchain development.  
 `Rust` `Solana` `TypeScript`
 
-[MemeBazaar](https://github.com/dodaa08/MemeBazaar) - Complete ERC20 token marketplace on Ethereum. Custom smart contracts for meme coin trading.  
-`Solidity` `Hardhat`
-
 ---
 
 **Now will pin below the latest ones below which I am mostly working on daily**
