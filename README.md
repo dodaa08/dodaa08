@@ -3,7 +3,7 @@
   <br/>
 </div>
 
-**General Web3**
+**Web3**
 
 [Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
 A death.fun-inspired game on Monad chain.  
@@ -19,7 +19,7 @@ Built indexing system for Ethereum blocks with Redis caching.
 
 ---
 
-**Backend Heavy**
+**Backend**
 
 [Trade crypto N8N style (Ongoing)](https://github.com/dodaa08/trading-bot-n8n) - N8N style trading bot for trading, create workflows for automation.  
 `Turbo Repo` `React` `TypeScript` `Node.js` `MongoDB` `Express` `Algorithms`
@@ -44,7 +44,7 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 
 ---
 
-**Trying Solana**
+**Solana**
 
 [Death.fun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
 A death.fun-inspired game on Solana as well.  
