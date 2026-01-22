@@ -63,7 +63,7 @@ On-chain marketplace connecting gig workers with clients.
 
 ---
 
-**Vibecoded**
+**...**
 
 [Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
 Restaurant discovery using emoji inputs with Gemini  
