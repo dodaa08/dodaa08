@@ -52,7 +52,7 @@ A death.fun-inspired game on Solana as well.
 
 ---
 
-**Category: built during 1st year of College**
+**...**
 
 [Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine* in Javascript.  
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
