@@ -88,4 +88,4 @@ Complete Q3 Builders cohort work, Rust programming and Solana blockchain develop
 
 ---
 
-**Now will pin below the latest ones below which I am mostly working on daily**
+**Pinning the ones below which I am working in daily!**
