@@ -87,5 +87,3 @@ Complete Q3 Builders cohort work, Rust programming and Solana blockchain develop
 `Rust` `Solana` `TypeScript`
 
 ---
-
-**Pinning the ones below which I am working in daily!**
