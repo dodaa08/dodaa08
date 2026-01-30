@@ -13,7 +13,7 @@ A death.fun-inspired game on Monad chain.
 Token bridging between Base Sepolia and Ethereum Sepolia.  
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
-[Blockchain Indexer for CEX](https://github.com/dodaa08/CEX) - CEX  
+[Blockchain Indexer on Eth](https://github.com/dodaa08/CEX) -
 Built indexing system for Ethereum blocks with Redis caching.  
 `Solidity` `Hardhat` `Redis` `Express` `TypeScript`
 
