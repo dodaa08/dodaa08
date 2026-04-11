@@ -20,6 +20,14 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
+
+[Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Leaderboard*
+First Rust project
+a leaderboard app that shows a sorted list of trader addresses ranked by trade volume. It pulls trade data for the Zora token on Base mainnet using GraphQL, stores it in a PostgreSQL database, and serves it through a Rust/Axum backend with a Next.js frontend.
+
+`Rust` `Axum` `Next.js` `TypeScript` `Graphql` `Uniswap v3`
+
+
 [Blockchain Indexer on Eth](https://github.com/dodaa08/CEX) -
 Built indexing system for Ethereum blocks with Redis caching.  
 
@@ -42,11 +50,6 @@ First Web3 for paying gig workers in Crypto.
 [Assignment project for live attendance](https://github.com/dodaa08/Attandance-System-assignment) - Coded a real-time attendance system in TypeScript
 
 `TypeScript` `Node.js` `MongoDB` `Express` `Querying` `WebSockets`
-
-[Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Leaderboard*
-Live trading data visualization for Zora token on Base chain.  
-
-`Rust` `Axum` `Next.js` `TypeScript` `Uniswap v3`
 
 
 [Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
