@@ -5,7 +5,11 @@
 
 **Web3**
 
-[Casino-Onchain](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
+[VoidFun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
+A death.fun-inspired game on Solana.  
+`Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
+
+[VoidFun on Monad](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
 A death.fun-inspired game on Monad chain.  
 `Solidity` `Hardhat` `Next.js` `Express` `Redis` `MongoDB`
 
@@ -17,6 +21,11 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 Built indexing system for Ethereum blocks with Redis caching.  
 `Solidity` `Hardhat` `Redis` `Express` `TypeScript`
 
+
+[Quick Gigs](https://github.com/dodaa08/Quick-gigs) - *Decentralized Freelance Marketplace*  
+On-chain marketplace connecting gig workers with clients.  
+`Next.js` `TypeScript` `Solidity` `Supabase`
+
 ---
 
 **Backend**
@@ -27,53 +36,19 @@ Built indexing system for Ethereum blocks with Redis caching.
 [Assignment project for live attendance](https://github.com/dodaa08/Attandance-System-assignment) - Coded a real-time attendance system in TypeScript  
 `TypeScript` `Node.js` `MongoDB` `Express` `Querying` `WebSockets`
 
-[Zarva - Smart Route Optimizer](https://github.com/dodaa08/Zarva) - Google maps with real-time processing and smart recommendations.  
-`React` `Express` `Node.js` `Google Maps API` `GeoCoding API`
-
 [Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Leaderboard*  
 Live trading data visualization for Zora token on Base chain.  
 `Rust` `Axum` `Next.js` `TypeScript` `Uniswap v3`
 
-[CopperxPay Telegram Bot](https://github.com/dodaa08/copperx-payout-bot) - *Workflow Automation*  
-Streamlined CopperX's payment workflows through intelligent Telegram bot integration.  
-`TypeScript` `Telegram Bot API` `CopperX API`
 
 [Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
 Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
----
-
-**Solana**
-
-[Death.fun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
-A death.fun-inspired game on Solana as well.  
-`Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
-
----
-
-**...**
 
 [Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine* in Javascript.  
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
 
-[Quick Gigs](https://github.com/dodaa08/Quick-gigs) - *Decentralized Freelance Marketplace*  
-On-chain marketplace connecting gig workers with clients.  
-`Next.js` `TypeScript` `Solidity` `Supabase`
-
----
-
-**...**
-
-[Emoji Restaurant Finder](https://zoto-codecircuit-a4yg.vercel.app/) - *Dining Assistant*  
-Restaurant discovery using emoji inputs with Gemini  
-`Next.js` `Tailwind CSS` `Google Maps API` `Gemini LLM`
-
-[Find onChain jobs](https://github.com/dodaa08/soldeed-) - *Jobs on Solana, Might contain old data*  
-`Next.js` `Tailwind CSS` `Supabase`
-
-[Find Credit cards with AI](https://github.com/dodaa08/Find-Creditcards)  
-`Next.js` `Tailwind CSS` `Google Gemini`
 
 ---
 
