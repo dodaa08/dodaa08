@@ -41,10 +41,7 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 ---
 
 
-
-
-
-**Web3**
+## Web3
 
 
 [Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) -
@@ -75,7 +72,7 @@ First Web3 for paying gig workers in Crypto.
 ---
 
 
-**Smart Contracts**
+## Smart Contracts
 
 [Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) - Solidity Smart Contracts.
 
