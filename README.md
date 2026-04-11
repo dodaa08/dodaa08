@@ -5,25 +5,31 @@
 
 **Web3**
 
-[VoidFun on Solana](https://github.com/dodaa08/Void.fun) - *A Death Fun like game*  
+[VoidFun on Solana](https://github.com/dodaa08/Void.fun) - 
 A death.fun-inspired game on Solana.  
+
 `Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
 
-[VoidFun on Monad](https://github.com/dodaa08/Casino-onchain-monad) - *A Death Fun like game*  
+[VoidFun on Monad](https://github.com/dodaa08/Casino-onchain-monad) -
 A death.fun-inspired game on Monad chain.  
+
 `Solidity` `Hardhat` `Next.js` `Express` `Redis` `MongoDB`
 
-[EVM Bridge](https://github.com/dodaa08/Evm-Bridge) - *Cross-Chain Asset Transfer*  
-Token bridging between Base Sepolia and Ethereum Sepolia.  
+[EVM Bridge](https://github.com/dodaa08/Evm-Bridge) -
+Token bridging between Base Sepolia and Ethereum Sepolia.
+
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
 [Blockchain Indexer on Eth](https://github.com/dodaa08/CEX) -
 Built indexing system for Ethereum blocks with Redis caching.  
+
 `Solidity` `Hardhat` `Redis` `Express` `TypeScript`
 
 
-[Quick Gigs](https://github.com/dodaa08/Quick-gigs) - *Decentralized Freelance Marketplace*  
-On-chain marketplace connecting gig workers with clients.  
+[Quick Gigs](https://github.com/dodaa08/Quick-gigs) -
+
+First Web3 for paying gig workers in Crypto. 
+
 `Next.js` `TypeScript` `Solidity` `Supabase`
 
 ---
