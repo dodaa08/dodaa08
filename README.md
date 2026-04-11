@@ -23,7 +23,6 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 
 [Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) -
 First Rust project
-
 a leaderboard app that shows a sorted list of trader addresses ranked by trade volume. It pulls trade data for the Zora token on Base mainnet using GraphQL, stores it in a PostgreSQL database, and serves it through a Rust/Axum backend with a Next.js frontend.
 
 `Rust` `Axum` `Next.js` `TypeScript` `Graphql` `Uniswap v3`
