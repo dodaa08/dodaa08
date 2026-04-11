@@ -27,7 +27,6 @@ Built indexing system for Ethereum blocks with Redis caching.
 
 
 [Quick Gigs](https://github.com/dodaa08/Quick-gigs) -
-
 First Web3 for paying gig workers in Crypto. 
 
 `Next.js` `TypeScript` `Solidity` `Supabase`
@@ -36,23 +35,28 @@ First Web3 for paying gig workers in Crypto.
 
 **Backend**
 
-[Trade crypto N8N style (Ongoing)](https://github.com/dodaa08/trading-bot-n8n) - N8N style trading bot for trading, create workflows for automation.  
+[Trade crypto N8N style (Ongoing)](https://github.com/dodaa08/trading-bot-n8n) - N8N style trading bot for trading, create workflows for automation.
+
 `Turbo Repo` `React` `TypeScript` `Node.js` `MongoDB` `Express` `Algorithms`
 
-[Assignment project for live attendance](https://github.com/dodaa08/Attandance-System-assignment) - Coded a real-time attendance system in TypeScript  
+[Assignment project for live attendance](https://github.com/dodaa08/Attandance-System-assignment) - Coded a real-time attendance system in TypeScript
+
 `TypeScript` `Node.js` `MongoDB` `Express` `Querying` `WebSockets`
 
-[Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Leaderboard*  
+[Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) - *Real-Time Leaderboard*
 Live trading data visualization for Zora token on Base chain.  
+
 `Rust` `Axum` `Next.js` `TypeScript` `Uniswap v3`
 
 
 [Inklet - Draw & Chat (Ongoing)](https://github.com/dodaa08/Inklet) - *Real-Time Collaborative Canvas*  
 Multi-user drawing and chat platform with WebSocket integration. Built with monorepo architecture and real-time synchronization.  
+
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Turbo Repo` `WebSockets` `Express`
 
 
-[Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine* in Javascript.  
+[Trading Engine](https://github.com/dodaa08/Trading-System) - *Real-Time Trading Engine* in Javascript. 
+
 `React` `Node.js` `Chart.js` `Express` `MongoDB`
 
 
@@ -60,7 +64,8 @@ Multi-user drawing and chat platform with WebSocket integration. Built with mono
 
 **Smart Contracts**
 
-[Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) - Collection of all my hardhat Ethereum Smart Contracts.  
+[Solidity Contracts Monorepo](https://github.com/dodaa08/Solidity-contracts) - Solidity Smart Contracts.
+
 `Solidity` `TypeScript`
 
 [Turbin3 Rust Programs](https://github.com/dodaa08/Q3_25_BUILDER_KARTIK) - *Solana Development*  
