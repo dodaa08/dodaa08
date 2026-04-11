@@ -10,10 +10,6 @@ A death.fun-inspired game on Solana.
 
 `Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
 
-[VoidFun on Monad](https://github.com/dodaa08/Casino-onchain-monad) -
-A death.fun-inspired game on Monad chain.  
-
-`Solidity` `Hardhat` `Next.js` `Express` `Redis` `MongoDB`
 
 [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) -
 Token bridging between Base Sepolia and Ethereum Sepolia.
