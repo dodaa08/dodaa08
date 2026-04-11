@@ -5,7 +5,7 @@
 
 ## Backend
 
-[AudioFlow](https://github.com/dodaa08/CEX) -
+[AudioFlow](https://github.com/dodaa08/audioflow) -
  Audio Transcription pipeline, converts audio files to text  
 
 `Typescript` `Supabase Buckets` `Express` `Node.js` `WebSockets` `Redis` `Docker` `TurboRepo` `AssemblyAI`
