@@ -5,10 +5,13 @@
 
 **Web3**
 
-[VoidFun on Solana](https://github.com/dodaa08/Void.fun) - 
-A death.fun-inspired game on Solana.  
 
-`Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
+[Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) -
+First Rust project
+
+a leaderboard app that shows a sorted list of trader addresses ranked by trade volume. It pulls trade data for the Zora token on Base mainnet using GraphQL, stores it in a PostgreSQL database, and serves it through a Rust/Axum backend with a Next.js frontend.
+
+`Rust` `Axum` `Next.js` `TypeScript` `Graphql` `Uniswap v3`
 
 
 [EVM Bridge](https://github.com/dodaa08/Evm-Bridge) -
@@ -17,12 +20,10 @@ Token bridging between Base Sepolia and Ethereum Sepolia.
 `Next.js` `TypeScript` `Solidity` `Hardhat`
 
 
-[Uniswap Leaderboard](https://github.com/dodaa08/uniswap_leaderboard-) -
-First Rust project
+[VoidFun on Solana](https://github.com/dodaa08/Void.fun) - 
+A death.fun-inspired game on Solana.  
 
-a leaderboard app that shows a sorted list of trader addresses ranked by trade volume. It pulls trade data for the Zora token on Base mainnet using GraphQL, stores it in a PostgreSQL database, and serves it through a Rust/Axum backend with a Next.js frontend.
-
-`Rust` `Axum` `Next.js` `TypeScript` `Graphql` `Uniswap v3`
+`Rust` `Anchor` `Solana` `Next.js` `Express` `Redis` `MongoDB`
 
 
 [Blockchain Indexer on Eth](https://github.com/dodaa08/CEX) -
