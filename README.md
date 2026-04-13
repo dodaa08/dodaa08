@@ -65,7 +65,7 @@ A death.fun-inspired game on Solana.
 
 
 [Quick Gigs](https://github.com/dodaa08/Quick-gigs) -
-First Web3 for paying gig workers in Crypto. 
+Paying gig workers in Crypto. 
 
 `Next.js` `TypeScript` `Solidity` `Supabase`
 
