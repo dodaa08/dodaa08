@@ -17,7 +17,7 @@
 
 
 [Blockchain Indexer on Eth](https://github.com/dodaa08/CEX) -
-Built indexing system for Ethereum blocks with Redis caching.  
+Built indexing system for Ethereum blocks.
 
 `Solidity` `Hardhat` `Redis` `Express` `TypeScript`
 
