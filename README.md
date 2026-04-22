@@ -3,7 +3,6 @@
   <br/>
 </div>
 
-## Backend
 
 [AudioFlow](https://github.com/dodaa08/audioflow) -
  Audio Transcription pipeline, converts audio files to text  
